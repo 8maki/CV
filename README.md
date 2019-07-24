@@ -122,7 +122,7 @@
 * 実は少額のエンジェル投資
 
 ### 過去の登壇資料
-* [SlideShare](Shttps://www.slideshare.net/8maki)
+* [SlideShare](https://www.slideshare.net/8maki)
 * 登壇系の話は[こちら](https://kanmu.co.jp/published/)
 
 ### 執筆歴
