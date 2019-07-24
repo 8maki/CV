@@ -37,6 +37,8 @@
 ## 強み
 - No実績のベンチャーとして大手金融会社と生データ連携するところに至るまでのアライアンス力
 - 20億円くらいまでの資金調達能力
+- 精度の高い事業計画の策定・運用
+  - 参考：[カンムで使ってる事業計画のテンプレを公開します](http://finance-startups.jp/2018/07/business-plan-template/)
 - 25人くらいまでの組織運用能力
 - 簡易なプロトタイプの開発スピード
 
@@ -105,6 +107,8 @@
 
 #### 職務内容
 
+- 慶應義塾大学の産学連携ベンチャー企業で、半プロダクト開発半論文執筆というフェーズ
+  - 大学2年の時から軽く手伝っていた
 - Semantic Web関連のプロダクトのフロントエンド部分の開発（JavaScript）
 - Wikipediaからのオントロジーデータベースの作成。手動仕分け用の管理画面含む（Python）
 
@@ -127,8 +131,7 @@
 * [マーケジン](https://markezine.jp/article/detail/29703)
 * [ITMedia](https://www.itmedia.co.jp/business/articles/1812/03/news004.html)
 * 他にもいっぱいあった気がする
-* 論文
-Yamada, Ikuya, Yamaki, Wataru, Nakajima, Hirotaka, and Takefuji, Yoshiyasu. Phroni: Augmenting Wikipedia Using Mashups. In AI Mashup Challenge 2010, in ESWC 2010: 7th Extended Semantic Web Conference (Heraklion, Greece 2010)
-Yamada, Ikuya, Yamaki, Wataru, Nakajima, Hirotaka, and Takefuji, Yoshiyasu. Ousia Weaver: A tool for creating and publishing mashups as impressive Web pages. In MEM 2010: 3rd Workshop on Mashups, Enterprise Mashups and Lightweight Composition on the Web, in WWW 2010: Proceedings of the 18th International World Wide Web Conference (Raleigh, North Carolina, USA 2010)
+* Yamada, Ikuya, Yamaki, Wataru, Nakajima, Hirotaka, and Takefuji, Yoshiyasu. Phroni: Augmenting Wikipedia Using Mashups. In AI Mashup Challenge 2010, in ESWC 2010: 7th Extended Semantic Web Conference (Heraklion, Greece 2010)
+* Yamada, Ikuya, Yamaki, Wataru, Nakajima, Hirotaka, and Takefuji, Yoshiyasu. Ousia Weaver: A tool for creating and publishing mashups as impressive Web pages. In MEM 2010: 3rd Workshop on Mashups, Enterprise Mashups and Lightweight Composition on the Web, in WWW 2010: Proceedings of the 18th International World Wide Web Conference (Raleigh, North Carolina, USA 2010)
 
 テンプレは[こちら](https://github.com/okohs/Curriculum-Vitae)を利用させていただきました。
