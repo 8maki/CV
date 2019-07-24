@@ -39,6 +39,8 @@
 - 20億円くらいまでの資金調達能力
 - 精度の高い事業計画の策定・運用
   - 参考：[カンムで使ってる事業計画のテンプレを公開します](http://finance-startups.jp/2018/07/business-plan-template/)
+- FinTech（特に決済）関連事業の知識
+  - 副次効果として、決済代行の手数料交渉とかできます
 - 25人くらいまでの組織運用能力
 - 簡易なプロトタイプの開発スピード
 
@@ -98,7 +100,7 @@
 
 #### 職務内容の名前
 
-- mixiのソーシャルアプリの開発、運用。PHP・JavaScriptで開発
+- mixiのソーシャルアプリの開発、運用（PHP・JavaScript）
 - 上場企業の主要指標・ニュースをビジュアライズするサイト"Marketgeek"の開発、運用（Python・JavaScript）
 
 ### 2009/04 - 2010/12: 株式会社Studio Ousia
@@ -122,9 +124,6 @@
 ### 過去の登壇資料
 * [SlideShare](Shttps://www.slideshare.net/8maki)
 * 登壇系の話は[こちら](https://kanmu.co.jp/published/)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
 
 ### 執筆歴
 * [ビジネス+IT](https://www.sbbit.jp/article/cont1/35244)
